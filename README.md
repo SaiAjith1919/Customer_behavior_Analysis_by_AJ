@@ -33,4 +33,4 @@ Power BI Desktop
 
 This dashboard helps businesses understand customers better, target the right audience, improve marketing strategies, and increase overall revenue.
 
-**Dashboard Visual** 
+**Dashboard Visual** https://github.com/SaiAjith1919/Customer_behavior_Analysis_by_AJ/blob/main/customer_shopping_behavior_image.png
